@@ -56,15 +56,9 @@ python predict_price.py
 Replace `predict_price.py` with the script name used for predictions if different.
 
 ## Contributing
-
 Contributions are welcome! 
- 
- You Can Reach Me On LinkedIN | Kaggle <p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-atwan-7aaa81223/" target="_blank">
+ You Can Reach Me On LinkedIN >
+  <a href="https://www.linkedin.com/in/fares403/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-
-  <a href="https://www.kaggle.com/mo7amed3twan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="30" />
   </a>
 </p>
